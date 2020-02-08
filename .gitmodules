@@ -1,3 +1,15 @@
 [submodule ".oh-my-zsh/custom/plugins/autoenv"]
 	path = .oh-my-zsh/custom/plugins/autoenv
 	url = https://github.com/inishchith/autoenv.git
+[submodule ".oh-my-zsh/custom/plugins/zsh-autosuggestions"]
+	path = .oh-my-zsh/custom/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule ".oh-my-zsh/custom/plugins/zsh-syntax-highlighting"]
+	path = .oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule ".oh-my-zsh/custom/themes/dircolors-solarized"]
+	path = .oh-my-zsh/custom/themes/dircolors-solarized
+	url = https://github.com/seebi/dircolors-solarized.git
+[submodule ".oh-my-zsh/custom/themes/powerlevel10k"]
+	path = .oh-my-zsh/custom/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
