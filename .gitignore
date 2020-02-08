@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+
+# allow dotfiles explicitly
+!.gitignore
+!.zshrc
+!.bashrc
+!.bash_logout
+!.profile
+!.p10k.zsh
